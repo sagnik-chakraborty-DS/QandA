@@ -1,0 +1,10 @@
+<START>("What is the chemical symbol for gold?", ["A)Ag", "B)Au", "C)Fe", "D)Hg"], "B", "easy")<END>
+<START>("What is the largest planet in our solar system?", ["A)Earth", "B)Mars", "C)Jupiter", "D)Saturn"], "C", "easy")<END>
+<START>("What is the name of the process by which plants convert light energy into chemical energy?", ["A)Respiration", "B)Photosynthesis", "C)Fermentation", "D)Transpiration"], "B", "medium")<END>
+<START>("What is the name of the largest desert in the world?", ["A)Sahara Desert", "B)Antarctica", "C)Gobi Desert", "D)Arabian Desert"], "B", "medium")<END>
+<START>("What is the name of the largest ocean on Earth?", ["A)Atlantic Ocean", "B)Indian Ocean", "C)Arctic Ocean", "D)Pacific Ocean"], "D", "medium")<END>
+<START>("What is the name of the smallest country in the world?", ["A)Monaco", "B)Vatican City", "C)Nauru", "D)Tuvalu"], "B", "medium")<END>
+<START>("What is the name of the process by which water changes from a liquid to a gas?", ["A)Condensation", "B)Evaporation", "C)Sublimation", "D)Freezing"], "B", "hard")<END>
+<START>("What is the name of the theory that describes the formation of the universe?", ["A)Big Bang Theory", "B)Steady State Theory", "C)Inflationary Theory", "D)Quantum Cosmology"], "A", "hard")<END>
+<START>("What is the name of the first person to walk on the moon?", ["A)Neil Armstrong", "B)Buzz Aldrin", "C)Yuri Gagarin", "D)Alan Shepard"], "A", "hard")<END>
+<START>("What is the name of the largest star in our galaxy?", ["A)Sirius", "B)Betelgeuse", "C)VY Canis Majoris", "D)Rigel"], "C", "hard")<END> 
