@@ -1,5 +1,5 @@
 
-google-generativeai==0.1.0  # Use the correct version number based on your installation
-streamlit==1.22.0           # Replace with the version you're using
-pandas==1.5.3               # Replace with the version you're using
-PyPDF2==3.0.1               # Include this as it's used in your code
+google-generativeai  # Use the correct version number based on your installation
+streamlit          # Replace with the version you're using
+pandas              # Replace with the version you're using
+PyPDF2            # Include this as it's used in your code
