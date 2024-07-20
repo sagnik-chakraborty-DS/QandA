@@ -100,7 +100,7 @@ if uploaded_file is not None:
     start_page = st.number_input('Enter start page number', min_value=1, max_value=num_pages, step=1)
     end_page = st.number_input('Enter end page number', min_value=start_page, max_value=num_pages, step=1)
 
-    if st.button('Show Page Content'):
+    if st.button('Show Page Content + Create question'):
         pdf_text = ""
         for page_num in range(start_page - 1, end_page):
             page = pdf_reader.pages[page_num]
